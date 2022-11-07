@@ -22,7 +22,8 @@ module.exports = {
     nav: require("./config/nav"),
     sidebar: require("./config/sidebar"),
     lastUpdated: "最后更新",
-    repo: "https://github.com/CuteLittleSky/tiankongdaohang",
+    repo: "CuteLittleSky/tiankongdaohang",
+    docsDir: 'docs',
     editLinks: true,
     editLinkText: '帮助我们完善天空导航'
     docsBranch: 'main',
