@@ -25,5 +25,10 @@ module.exports = {
     repo: "https://github.com/CuteLittleSky/tiankongdaohang",
     editLinks: true,
     editLinkText: '帮助我们完善天空导航'
+    pageAnchor:{
+      isDisabled: false,
+      anchorDepth: 2
+    },
+    isDarkMode: true,
   },
 };
