@@ -30,5 +30,6 @@ module.exports = {
       anchorDepth: 2
     },
     isDarkMode: true,
+    search: false,
   },
 };
