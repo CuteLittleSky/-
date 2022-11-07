@@ -6,7 +6,8 @@ jobs:
     steps:
     - name: Checkout
       uses: actions/checkout@master
-
+    - name: AntTheme
+      run: npm i vuepress-theme-antdocs
     - name: vuepress-deploy
       uses: jenkey2011/vuepress-deploy@master
       env:
