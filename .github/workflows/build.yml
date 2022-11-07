@@ -1,6 +1,4 @@
-name: A TO A:GH_PAGES
-permissions:
-  contents: write
+name: Build and Deploy
 on: [push]
 jobs:
   build-and-deploy:
@@ -8,12 +6,12 @@ jobs:
     steps:
     - name: Checkout
       uses: actions/checkout@master
-    - name: theme
-      run: npm i vuepress-theme-antdocs
-    - name: Build and Deploy
+
+    - name: vuepress-deploy
       uses: jenkey2011/vuepress-deploy@master
       env:
-        TARGET_REPO: jenkey2011/vuepress-deploy-demo
-        TARGET_BRANCH: gh_pages
+        ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+        TARGET_REPO: username/repo
+        TARGET_BRANCH: master
         BUILD_SCRIPT: yarn && yarn build
         BUILD_DIR: blog/.vuepress/dist/
