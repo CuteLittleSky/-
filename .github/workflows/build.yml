@@ -1,36 +1,18 @@
-name: Github 自动构建
-permissions:
-  contents: write
-on:
-  push:
-    branches-ignore:
-      - gh-pages
-  workflow_dispatch:
-  pull_request:
+name: A TO A:GH_PAGES
+on: [push]
 jobs:
-  build:
-    name: Build and Deploy
+  build-and-deploy:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/setup-node@v2-beta
-        with:
-          node-version: '12'
-      - name: Checkout Repository
-        uses: actions/checkout@v2
-        with:
-          fetch-depth: '0'
-          persist-credentials: false
-          submodules: 'recursive'
-      - name: Install
-        run: npm install
-      - name: Antdoc Theme
-        run: npm i vuepress-theme-antdocs
-      - name: Build
-        run: npm run build
-      - name: Deploy
-        uses: JamesIves/github-pages-deploy-action@4.1.5
-        if: ${{ github.event_name == 'push' && github.ref == 'refs/heads/main'}}
-        with:
-          BRANCH: gh-pages
-          FOLDER: docs
-          CLEAN: true
+    - name: Checkout
+      uses: actions/checkout@master
+    - name: theme
+      run: npm i vuepress-theme-antdocs
+    - name: Build and Deploy
+      uses: jenkey2011/vuepress-deploy@master
+      env:
+        ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+        TARGET_REPO: jenkey2011/vuepress-deploy-demo
+        TARGET_BRANCH: gh_pages
+        BUILD_SCRIPT: yarn && yarn build
+        BUILD_DIR: blog/.vuepress/dist/
