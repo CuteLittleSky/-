@@ -1,4 +1,6 @@
 name: A TO A:GH_PAGES
+permissions:
+  contents: write
 on: [push]
 jobs:
   build-and-deploy:
@@ -11,7 +13,6 @@ jobs:
     - name: Build and Deploy
       uses: jenkey2011/vuepress-deploy@master
       env:
-        ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
         TARGET_REPO: jenkey2011/vuepress-deploy-demo
         TARGET_BRANCH: gh_pages
         BUILD_SCRIPT: yarn && yarn build
