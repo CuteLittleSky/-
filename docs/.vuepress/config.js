@@ -26,6 +26,5 @@ module.exports = {
     docsDir: 'docs',
     editLinks: true,
     editLinkText: '帮助我们完善天空导航'
-    search: false,
   },
 };
