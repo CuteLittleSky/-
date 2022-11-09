@@ -8,6 +8,8 @@ jobs:
       uses: actions/checkout@master
     - name: AntTheme
       run: npm i vuepress-theme-antdocs
+    - name: fix
+      run: npm audit --force
     - name: vuepress-deploy
       uses: jenkey2011/vuepress-deploy@master
       env:
