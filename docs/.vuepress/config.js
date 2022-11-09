@@ -21,7 +21,7 @@ module.exports = {
     smoothScroll: true,
     nav: require("./config/nav"),
     sidebar: require("./config/sidebar"),
-    sidebar: 'auto'
+    sidebar: 'auto',
     search: false,
     lastUpdated: "最后更新",
     repo: "CuteLittleSky/tiankongdaohang",
