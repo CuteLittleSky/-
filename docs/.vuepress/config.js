@@ -30,6 +30,5 @@ module.exports = {
     smoothScroll: true,
     editLinks: true,
     editLinkText: '帮助我们完善天空导航',
-    }
   },
 };
