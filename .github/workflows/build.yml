@@ -9,7 +9,7 @@ jobs:
     - name: AntTheme
       run: npm i vuepress-theme-antdocs
     - name: fix
-      run: npm audit --force
+      run: npm audit fix --force
     - name: vuepress-deploy
       uses: jenkey2011/vuepress-deploy@master
       env:
