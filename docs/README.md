@@ -34,5 +34,5 @@ footerWrap:
     - title: MCBBS
       link: https://www.mcbbbs.net/?3171761
       details: 可爱小天空
-footer: <a href="https://beian.miit.gov.cn/"><font color=Purple>豫ICP备2021034016号</a><font color=Gray> | <a href="https://skycraft.cn/"><font color=DarkRed>SKYCRAFT.CN</a> © 2020-2022 <font color=Gray>| 如非特别说明,本站内容使用<a href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><font color=Orange>CC BY-NC-SA 3.0</a><font color=Gray>协议</color>
+footer: <a href="https://beian.miit.gov.cn/"><font color=Purple>豫ICP备2021034016号</a><font color=Gray> | <a href="https://mc.skycraft.cn/"><font color=DarkRed>SKYCRAFT.CN</a> © 2020-2022 <font color=Gray>| 如非特别说明,本站内容使用<a href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><font color=Orange>CC BY-NC-SA 3.0</a><font color=Gray>协议</color>
 ---
