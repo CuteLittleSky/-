@@ -6,8 +6,8 @@ actions:
     link: /mc/
     type: primary
     size: large
-  - text: 加入QQ频道
-    link: https://pd.skycraft.cn/
+  - text: 加入QQ群
+    link: https://jq.qq.com/?_wv=1027&k=7HArwGuv
     type: primary
     ghost: true
     size: large
@@ -29,8 +29,8 @@ footerWrap:
       details: 天空原神导航
   - headline: ⚓友情链接
     items:
-    - title: Pojav中文文档
-      link: https://pojav.skycraft.cn
+    - title: SKYCRAFT
+      link: https://skycraft.cn
     - title: MCBBS
       link: https://www.mcbbbs.net/?3171761
       details: 可爱小天空
