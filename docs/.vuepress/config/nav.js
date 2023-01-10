@@ -14,7 +14,7 @@ module.exports = [
     link: "/ys/"
   },
   {
-    text: "加入QQ频道",
-    link: "https://pd.skycraft.cn"
+    text: "加入QQ群",
+    link: "https://jq.qq.com/?_wv=1027&k=7HArwGuv"
   }
 ];
