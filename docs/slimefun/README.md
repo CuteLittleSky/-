@@ -120,6 +120,7 @@ Tips:部分粘液科技附属插件可能存在某些刷物品Bug,请谨慎使�
 [官方粘液科技附属插件地址](https://hub.fastgit.xyz/Slimefun/Slimefun4/wiki/addons)  
 [粘液科技附属列表](/slimefun/addons)提供了由SlimefunGuguProject中文汉化组整合的大部分粘液科技附属插件的介绍及汉化下载地址,如果需要其他汉化,可在MCBBS查找或前往附属的Fork界面寻找.  
 部分知名附属介绍:  
+注意: Mojang在1.20.3前的某次更新中移除了附魔相关的注册方法,因此LiteXpansion与FluffyMachines不适配新版本,请等待后续更新.
 <table>
     <tr>
         <td>**ExtioGarden - 异域花园**</td>
