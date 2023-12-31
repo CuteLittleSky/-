@@ -83,24 +83,24 @@
   
 ### | 禁用(或部分禁用)粘液科技物品  
 打开位于服务端根目录/plugins/Slimefun/Items.yml文件,可以看到粘液科技的所有物品,可以在这里可以选择对物品进行的各种功能  
-``  
-    XXXX_XXX:  
-    其中的XXXX_XXX为粘液科技物品名称,如果找不到某个物品的英文名,可在游戏中手持该物品并输入/sf id查看该物品的英文名  
-    enabled: true  
-    将true改为false可以禁用该粘液科技物品的所有选项  
-    can-be-used-in-workbenchs: true  
-    该物品是否可以在工作台中参与合成  
-    hide-in-guide: false  
-    该物品是否在粘液科技指南中隐藏  
-    allow-enchanting: true  
-    该物品是否被允许进行附魔  
-    allow-disenchanting: true  
-    该物品是否被允许进行驱魔  
-    required-permission: ' '  
-    使用该物品所需的权限  
-    wiki:   
-    粘液科技物品的英文wiki界面  
-``   
+
+        XXXX_XXX:  
+        其中的XXXX_XXX为粘液科技物品名称,如果找不到某个物品的英文名,可在游戏中手持该物品并输入/sf id查看该物品的英文名  
+        enabled: true  
+        将true改为false可以禁用该粘液科技物品的所有选项  
+        can-be-used-in-workbenchs: true  
+        该物品是否可以在工作台中参与合成  
+        hide-in-guide: false  
+        该物品是否在粘液科技指南中隐藏  
+        allow-enchanting: true  
+        该物品是否被允许进行附魔  
+        allow-disenchanting: true  
+        该物品是否被允许进行驱魔  
+        required-permission: ' '  
+        使用该物品所需的权限  
+        wiki:   
+        粘液科技物品的wiki界面  
+
 打开位于服务端根目录/plugins/Slimefun/world-settings文件夹,你可以在这里看到服务端所加载的所有世界,在这里可以调整某物品在某世界的禁用选项,若在A世界禁用B物品,则在A世界使用B物品时会收到一条警告信息并禁止使用  
 打开位于服务端根目录/plugins/Slimefun/world-settings/world.yml文件  
 第8行的enabled: false 代表禁用该世界的所有粘液科技物品  
