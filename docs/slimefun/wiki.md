@@ -11,7 +11,7 @@
 | CrystamaeHistoria | 魔法水晶编年史 | [点击访问](https://slimefun-addons-wiki.guizhanss.cn/crystamae-historia/) | [点击访问](https://docs.sefiraat.dev/crystamae-historia/) | [p1](https://www.bilibili.com/video/BV1FY411J7cs/) [p2](https://www.bilibili.com/video/BV1VZ4y1m7eG/) |
 | DynaTech | 动力科技 | [点击访问](https://slimefun-addons-wiki.guizhanss.cn/dyna-tech/) | [点我访问](https://kkgithub.com/ProfElements/DynaTech/blob/main/README.md) | [c1](https://www.bilibili.com/read/cv19282167) [c2](https://www.bilibili.com/read/cv20641468) |
 | ExoticGarden | 异域花园 | [点击访问](https://slimefun-addons-wiki.guizhanss.cn/exotic-garden/) | [点击访问(过时)](https://dev.bukkit.org/projects/exotic-garden) | [p1](https://www.bilibili.com/video/BV1Ny4y1r7Wz/) |
-| EMCTech | EMC科技 | [点击访问](https://slimefun-addons-wiki.guizhanss.cn/emc-tech/) | [点击访问](kkhttps://github.com/Sefiraat/EquivalencyTech/wiki) |
+| EMCTech | EMC科技 | [点击访问](https://slimefun-addons-wiki.guizhanss.cn/emc-tech/) | [点击访问](https://kkgithub.com/Sefiraat/EquivalencyTech/wiki) |
 | FluffyMachines | 蓬松机器 | [点击访问](https://slimefun-addons-wiki.guizhanss.cn/fluffy-machines/) | [点击访问](https://kkgithub.com/NCBPFluffyBear/FluffyMachines/blob/master/README.md) |
 | FoxyMachines | 神秘科技 | [点击访问](https://slimefun-addons-wiki.guizhanss.cn/foxy-machines/) | | [p1](https://www.bilibili.com/video/BV1t3411W7vW/) [p2](https://www.bilibili.com/video/BV1qZ4y1z7i9/) [c1](https://www.bilibili.com/read/cv22932209) [c2](https://www.bilibili.com/read/cv23226679) |
 | GeneticChickengineering | 基因工程 | [点击访问](https://slimefun-addons-wiki.guizhanss.cn/geneticchickengineering/) | [点击访问](https://kkgithub.com/kii-chan-reloaded/GeneticChickengineering/wiki) |
