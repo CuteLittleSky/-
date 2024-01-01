@@ -24,7 +24,7 @@ module.exports = {
     lastUpdated: "最后更新",
     repo: "CuteLittleSky/tiankongdaohang",
     docsDir: 'docs',
-    docsBranch: 'master',
+    docsBranch: 'main',
     smoothScroll: true,
     editLinks: true,
     editLinkText: '帮助我们完善天空导航',
