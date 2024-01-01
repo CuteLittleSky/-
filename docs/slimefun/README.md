@@ -58,14 +58,43 @@
 [粘液科技官方版下载地址](https://github.com/Slimefun/Slimefun4)  
 [可在此处下载粘液科技原版所适用的汉化文件及汉化所需插件](https://www.mcbbs.net/thread-1209429-1-1.html)
 
-相较于官方原版,中文版有着不可比拟的优势,例如额外的保护功能/数据库支持等,因此如果没有特殊需求,使用中文版即可.  
+相较于官方原版,中文版有着不可比拟的优势,例如额外的保护功能/**数据库支持**等,因此如果没有特殊需求,使用中文版即可.  
 下载完成后,将插件放入位于服务端根目录的 plugins 文件夹即可.
+
+### | 使用数据库储存粘液科技玩家数据/方块数据 [重要]
+在中文版23年7月后的更新中加入了数据库储存功能,**建议所有服主均使用数据库储存**以便提供粘液科技数据的跨服兼容支持及减少粘液科技机器变方块的问题.
+你可在[菜鸟教程 - MySQL安装](https://www.runoob.com/mysql/mysql-install.html)安装MySQL数据库,也可使用[宝塔面板](https://www.bt.cn/)或[小皮面板](https://www.bt.cn/)安装并快捷配置数据库.
+安装数据库后,可在粘液科技配置文件夹中的profile-storage.yml(玩家数据),block-storage.yml(方块数据)进行配置.
+
+
+    storageType: MYSQL
+    mysql:
+      # 数据库连接地址
+      host: ""
+      # 数据库连接端口
+      port: 
+      # 数据库名
+      database: ""
+      # 表前缀
+      tablePrefix: ""
+      # 连接用户名
+      user: ""
+      # 连接用户密码
+      password: ""
+      # 是否使用加密连接
+      useSSL: false
+      # 最大连接数
+      maxConnection: 100
+	  (两份配置文件均全中文,自行配置即可)
+
+> **注意:** profile-storage.yml(玩家数据)可以跨服保存(即多个子服务器使用同一数据库),但block-storage.yml(方块数据)不能跨服保存,每个子服务器均需要使用单独的MySQL数据库
+
 
 ### | 使用粘液科技材质包(CustomModelData)
 
 粘液科技中的部分物品使用头颅的形式呈现,但还有数目不小的物品使用原版物品的形式实现,如何让这部分物品拥有自己的材质呢?  
-在 Minecraft1.14+ 加入了物品标签(CustomModelData),通过 CustModelData 可以实现相同物品的不同材质展现,Slimefun 同样支持 CustomModelData.  
-如何使用粘液科技材质包?  
+在 Minecraft1.14+ 加入了物品标签(CustomModelData),通过CustModelData可以实现相同物品的不同材质展现,Slimefun 同样支持CustomModelData功能.  
+#### 如何使用粘液科技材质包?  
 你可以在使用由xMikux制作的材质包,可在[此处](https://github.com/xMikux/Slimefun-Resourcepack/releases)下载(支持1.14-1.20+)
 
 
@@ -148,8 +177,8 @@ Tips:部分粘液科技附属插件可能存在某些刷物品 Bug,请谨慎使�
 如果你使用了[SlimefunGuguProject(粘液科技简中汉化组)](https://github.com/SlimefunGuguProject)提供的中文版附属插件,绝大多数情况下还需要安装[GuizhanLibPlugin](https://builds.guizhanss.cn/ybw0014/GuizhanLibPlugin/master),使用GuizhanLibPlugin与中文版附属还可实现附属插件自动更新  
 [官方粘液科技附属插件地址](镜像)(https://kkgithub.com/https://github.com//Slimefun/Slimefun4/wiki/addons) [官方粘液科技附属插件地址](https://kkgithub.com/https://github.com//Slimefun/Slimefun4/wiki/addons)  
 [中文粘液科技附属列表](/slimefun/addons)提供了由 SlimefunGuguProject 中文汉化组整合的大部分粘液科技附属插件的介绍及汉化下载地址,如果需要其他汉化,可在 MCBBS 查找或前往附属的 Fork 界面寻找.  
-部分知名附属介绍:  
-注意: Mojang 在 1.20.3 前的某次更新中移除了附魔相关的注册方法,因此 LiteXpansion 与 FluffyMachines 不适配新版本,请等待后续更新.
+
+#### 部分知名附属介绍:  
 
 <table>
     <tr>
@@ -181,10 +210,19 @@ Tips:部分粘液科技附属插件可能存在某些刷物品 Bug,请谨慎使�
         <td>向粘液科技中添加了四种不同的幸运方块,破坏幸运方块会发生一些随机的事件,是好事,也有可能是坏事?</td>
     </tr>
     <tr>
-        <td>**FinalTech - 乱序**</td>
-        <td>非常厉害的粘液科技附属插件</td>
+        <td>**FinalTech - 乱序技艺**</td>
+        <td>它包括新的电力系统、新的货运系统以及目前的一些特殊机器和物品</td>
+    </tr>
+    <tr>
+        <td>**Network - 网络**</td>
+        <td>类AE2模组的大型存储系统,推荐添加</td>
+    </tr>
+    <tr>
+        <td>**InfinityExpansion - 无尽科技**</td>
+        <td>根据无尽贪婪模组制作的粘液科技附属插件,可大大提高粘液科技游戏体验</td>
     </tr>
 </table>
+> 注意: Mojang 在 1.20.3 前的某次更新中移除了附魔相关的注册方法,目前 LiteXpansion 与 FluffyMachines 暂不适配1.20.3/1.20.4版本,请等待后续更新.
 
 ### | 粘液科技变量
 
@@ -203,10 +241,11 @@ Tips:部分粘液科技附属插件可能存在某些刷物品 Bug,请谨慎使�
 ### | 与粘液科技冲突的插件(及部分解决方案)
 
 Shopkeepers - 村民商店  
-粘液科技物品无法与村民进行交易
+粘液科技物品可能无法与村民进行交易
 
 MineTinker - 插件匠魂(与 SlimeTinker 不同)  
 当粘液科技工具放到铁砧中添加模块时可无限刷模块
+解决方案: 建议使用SlimeTinker插件
 
 Tweakin - 生存扩展  
 开了附魔台保留青金石,附魔机和祛魔机就会变成附魔台无法使用  
@@ -235,16 +274,19 @@ Residence - 领地
 Q:为什么我的玩家可以打开粘液科技手册的作弊模式?  
 A:可能误给予了 slimefun.cheat.items 权限,将此权限设置为 false 即可解决
 
+
 Q:大量粘液机器导致卡服,如何限制玩家的机器数量?  
 可使用[HeadLimit](https://hub.fastgit.xyz/SlimefunGuguProject/HeadLimiter/)限制粘液各种类型机器的区块限制数量
 
-可使用[CustomChunkLimits](https://www.mcbbs.net/thread-984759-1-1.html)插件限制每个区块内某一种机器的数量
+使用[CustomChunkLimits](https://www.mcbbs.net/thread-984759-1-1.html)插件限制每个区块内某一种机器的数量
 
 Q:在没有管理权限的情况下,玩家如何自行移除幽灵方块?  
 A:使用粘液科技自带的机器人,使机器人走到幽灵方块所在位置并拆除即可
 
+
 Q:如何切换使用游戏币而不是经验解锁研究?  
-A:config.yml 中
+A:config.yml 中`use-money-unlock: false`
+
 
 Q:我使用了 XXX 插件的领地/地皮/空岛,但其他玩家可以打开我领地/地皮/空岛的粘液科技机器?  
 A:由于部分插件的保护仅针对于原版物品有效,你可以联系插件开发者来获取帮助,也可以通过禁止玩家进入你的领地/地皮/空岛来保护你的机器.  
@@ -277,12 +319,42 @@ A:若使用本地储存(默认)粘液科技的数据储存在服务端根目录/
 
 ### | 魔改粘液科技插件(及其附属)中的内容
 
+#### 直接修改源代码
+
+大部分粘液科技插件都是开源的,你可以自行修改,但对技术要求较高
+
+#### 使用[SlimefunRecipe(SFR)](https://www.mcbbs.net/thread-1442362-1-1.html "SlimefunRecipe(SFR)")插件修改粘液合成表
+- 手持物品使用`/sfr edit`自定义所有粘液科技物品的合成配方(全GUI操作)
+- 可修改所有粘液科技物品的合成机器
+- 可以为指定机器添加自定义配方
+- 可使用`/sfr view`预览配方
+- 支持多种配方格式
+- 兼容DynaTech,ExoticGarden,FlowerPower,FluffyMachines,InfinityExpansion,SoulJars,TranscEndence等粘液附属
+
+#### 使用[SlimeCustomizer](https://slimefun-addons-wiki.guizhanss.cn/slime-customizer/)插件添加粘液机器/物品及各种配方
+通过SlimeCustomizer,你无需学习编程即可自定义各种粘液科技机器及物品,目前已有多个由SlimeCustomizer制成的附属模组,如海曼科技并取得了不错的效果
+
+你可在[粘液科技附属 中文Wiki](https://slimefun-addons-wiki.guizhanss.cn/slime-customizer/)中了解学习SlimeCustomizer的使用方法
+
+此外[粘液科技附属插件列表](https://mc.skycraft.cn/slimefun/addons)中也收集了一些通过SlimeCustomizer制成的附属模组,可自行下载体验.
+
+#### LiteXpansion所提供的削弱其他附属模组发电机功能
 
 
+为了平衡不同附属插件的电力消耗,LiteXpansion在配置文件中提供了`nerf-other-addons`选项,启用后会削弱其他附属中的发电机（下方已列出）,禁用则会使本附属插件中机器电力消耗翻倍 (默认: true)
+
+- 粘液科技 - 充能太阳能板
+- 无尽科技 - 所有发电机
+- 战争工艺 - 元素发电机
+- 星际 - 聚变反应堆
+- 至尊研究院2.0 - 所有发电机
+
+#### 对不同附属的配置文件进行仔细修改
+部分附属如SlimeTinker,CrystamaeHistoria等的配置文件都有可完全自定义的选项,作为服主,你更需要的是在其中进行修改而不是**开箱即用**
 <!-- tabs:start -->
 #### **转载说明**
 
 本界面及下属界面内容(/slimefun/\*)除特别说明外未经授权严禁以任何形式引用至任何网站
 
-部分内容参考自: MinecraftWiki,Slimefun Wiki,Slimefun-Geyser
+部分内容参考自: MinecraftWiki,Slimefun Wiki,Slimefun-Geyser,SlimefunRecipe,SlimefunGuguProject/LiteXpansion
 <!-- tabs:end -->
