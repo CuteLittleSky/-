@@ -14,6 +14,14 @@ module.exports = [
     link: "/ys/"
   },
   {
+        text: '粘液科技',
+        ariaLabel: 'Slimefun',
+        items: [
+          { text: '粘液科技服主食用指南', link: '/slimefun/' },
+          { text: 'Japanese', link: '/slimefun/addons' }
+        ]
+      },
+  {
     text: "加入QQ群",
     link: "https://jq.qq.com/?_wv=1027&k=7HArwGuv"
   }
