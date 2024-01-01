@@ -33,6 +33,9 @@
 善于对服务器玩法进行更新:  
 选择恰当的时间添加新的粘液科技附属插件以确保玩家游玩服务器的积极性,因粘液科技的科技线并不算远,在保证全服玩家平均进程的情况下添加
 
+善用粘液科技中文社区:  
+粘液科技中文社区已经相当完善,包括鬼斩构建站,粘液科技中文文档,粘液科技附属插件文档等工具网站以足以应对大多数服主的需要.  
+
 若你的服务器安装有 ChestTerminal 插件,建议及时替换为 Network 插件,Slimefun 官方**已停止**对 ChestTerminal 的支持.
 
 ### | 什么是粘液科技?
@@ -124,7 +127,7 @@ enchant-level-limit: 0
 粘液科技的玩法不仅有本体所提供的玩法,还有超多的扩展组件来扩展粘液科技的功能,我们可以安装扩展组件来丰富粘液科技的玩法.  
 Tips:部分粘液科技附属插件可能存在某些刷物品 Bug,请谨慎使用  
 安装粘液科技附属插件的方法很简单,只需将插件放入位于服务端根目录/plugins 文件夹中重启服务器即可  
-如果你使用了[SlimefunGuguProject(粘液科技简中汉化组)](https://github.com/SlimefunGuguProject)提供的中文版附属插件,绝大多数情况下还需要安装[GuizhanLibPlugin](https://builds.guizhanss.cn/ybw0014/GuizhanLibPlugin/master)
+如果你使用了[SlimefunGuguProject(粘液科技简中汉化组)](https://github.com/SlimefunGuguProject)提供的中文版附属插件,绝大多数情况下还需要安装[GuizhanLibPlugin](https://builds.guizhanss.cn/ybw0014/GuizhanLibPlugin/master),使用GuizhanLibPlugin与中文版附属还可实现附属插件自动更新  
 [官方粘液科技附属插件地址](镜像)(https://kkgithub.com/https://github.com//Slimefun/Slimefun4/wiki/addons) [官方粘液科技附属插件地址](https://kkgithub.com/https://github.com//Slimefun/Slimefun4/wiki/addons)  
 [中文粘液科技附属列表](/slimefun/addons)提供了由 SlimefunGuguProject 中文汉化组整合的大部分粘液科技附属插件的介绍及汉化下载地址,如果需要其他汉化,可在 MCBBS 查找或前往附属的 Fork 界面寻找.  
 部分知名附属介绍:  
