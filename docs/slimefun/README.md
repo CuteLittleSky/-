@@ -320,11 +320,11 @@ A:若使用本地储存(默认)粘液科技的数据储存在服务端根目录/
 
 ### | 魔改粘液科技插件(及其附属)中的内容
 
-#### 直接修改源代码
+#### **直接修改源代码**
 
 大部分粘液科技插件都是开源的,你可以自行修改,但对技术要求较高
 
-#### 使用[SlimefunRecipe(SFR)](https://www.mcbbs.net/thread-1442362-1-1.html "SlimefunRecipe(SFR)")插件修改粘液合成表
+#### **使用[SlimefunRecipe(SFR)](https://www.mcbbs.net/thread-1442362-1-1.html "SlimefunRecipe(SFR)")插件修改粘液合成表**
 - 手持物品使用`/sfr edit`自定义所有粘液科技物品的合成配方(全GUI操作)
 - 可修改所有粘液科技物品的合成机器
 - 可以为指定机器添加自定义配方
@@ -332,14 +332,14 @@ A:若使用本地储存(默认)粘液科技的数据储存在服务端根目录/
 - 支持多种配方格式
 - 兼容DynaTech,ExoticGarden,FlowerPower,FluffyMachines,InfinityExpansion,SoulJars,TranscEndence等粘液附属
 
-#### 使用[SlimeCustomizer](https://slimefun-addons-wiki.guizhanss.cn/slime-customizer/)插件添加粘液机器/物品及各种配方
+#### **使用[SlimeCustomizer](https://slimefun-addons-wiki.guizhanss.cn/slime-customizer/)插件添加粘液机器/物品及各种配方**
 通过SlimeCustomizer,你无需学习编程即可自定义各种粘液科技机器及物品,目前已有多个由SlimeCustomizer制成的附属模组,如海曼科技并取得了不错的效果
 
 你可在[粘液科技附属 中文Wiki](https://slimefun-addons-wiki.guizhanss.cn/slime-customizer/)中了解学习SlimeCustomizer的使用方法
 
 此外[粘液科技附属插件列表](https://mc.skycraft.cn/slimefun/addons)中也收集了一些通过SlimeCustomizer制成的附属模组,可自行下载体验.
 
-#### LiteXpansion所提供的削弱其他附属模组发电机功能
+#### **LiteXpansion所提供的削弱其他附属模组发电机功能**
 
 
 为了平衡不同附属插件的电力消耗,LiteXpansion在配置文件中提供了`nerf-other-addons`选项,启用后会削弱其他附属中的发电机（下方已列出）,禁用则会使本附属插件中机器电力消耗翻倍 (默认: true)
