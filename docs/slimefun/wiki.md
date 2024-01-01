@@ -41,6 +41,7 @@
 | GreedAndCreation | 贪婪与创世 |  |  | [p1](https://www.bilibili.com/video/BV1cX4y1k7vB) | 
 | InfiniteExtensionV2 | 无尽扩展 |  |  | [p1](https://www.bilibili.com/video/BV1ij411w7vo) | 
 | XingCheng_Craft | 星辰工艺 |  |  | 备注:可参考[Releases](https://github.com/FengXiang2233/XingCheng_Craft/releases)
+|  | 更多奇特的工具 |  | [p1](https://www.bilibili.com/video/BV1ZV4y1S7uY/)
 
 <!-- tabs:start -->
 #### **引用说明**
