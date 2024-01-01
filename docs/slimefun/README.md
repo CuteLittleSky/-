@@ -283,5 +283,5 @@ A:若使用本地储存(默认)粘液科技的数据储存在服务端根目录/
 #### **转载说明**
 
 本界面及下属界面内容(/slimefun/\*)除特别说明外未经授权严禁以任何形式引用至任何网站
-部分内容参考自: MinecraftWiki,Slimefun Wiki
+部分内容参考自: MinecraftWiki,Slimefun Wiki,Slimefun-Geyser
 <!-- tabs:end -->
