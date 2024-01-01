@@ -18,7 +18,6 @@
 
 部分汉化版附属需要GuizhanLib才能运行，在此下载：[点击前往](https://builds.guizhanss.cn/ybw0014/GuizhanLibPlugin/master)
 
-在问为什么运行不了之前，请阅读[故障排除指南](/How-to-report-bugs)。
 
 ## 官方附属插件
 
@@ -110,7 +109,7 @@ Quaptics 量子光学 | Idra | <details><summary>展开</summary>量子光学添
 DracFun 龙之研究 | Phoenix | <details><summary>展开</summary>龙之研究参照龙之研究模组添加了新的强力工具、机器和物品。</details> | [官方版](https://modrinth.com/plugin/dracfun) | （该项目闭源） | [官方版](https://modrinth.com/plugin/dracfun/versions)
 FastMachines 快捷机器 | ybw0014 | <details><summary>展开</summary>该附属将乱序技艺的快捷机器玩法提取出来做成一个单独的附属。快捷机器可以批量制作物品，且不需要按顺序摆放配方物品。</details> | [官方版介绍](https://kkgithub.com/ybw0014/FastMachines#readme) | [官方版](https://kkgithub.com/ybw0014/FastMachines) | [官方版](https://thebusybiscuit.github.io/builds/ybw0014/FastMachines/master/) （自带中文） / [备用下载](https://builds.guizhanss.cn/ybw0014/FastMachines/master)
 
-### :cn: 国产附属 :id=made-in-china
+### :cn: 国产附属 
 
 以下插件均为国产附属，是由国人作者开发的。
 
@@ -176,7 +175,7 @@ SlimeFunItemBanned 在其它子服禁用粘液 | 321zhangjvzhi | <details><summa
 岛屿删除时自动删除Slimefun机器数据 | lu8121695 | <details><summary>展开</summary>岛屿删除时自动删除Slimefun机器数据</details> | N/A | [官方版](https://www.mcbbs.net/thread-1262424-1-1.html) | [官方版](https://www.mcbbs.net/thread-1262424-1-1.html)
 VillagerTrade 村民交易 | ybw0014 | <details><summary>展开</summary>该附属支持将粘液科技物品添加到村民/流浪商人的交易中</details> | N/A | [官方版](https://kkgithub.com/ybw0014/VillagerTrade) | [官方版](https://kkgithub.com/ybw0014/VillagerTrade)
 
-### :Addon Jam 2022 粘液科技附属竞赛（下界主题）
+### Addon Jam 2022 粘液科技附属竞赛（下界主题）
 
 名称 | 作者 | 介绍 | 更多信息 | 源代码 | 下载
 --- | --- | --- | ------- | ----- | -- |
@@ -281,28 +280,6 @@ WhatIsThis 这是啥 | steve4744 | <details><summary>展开</summary>WhatIsThis 
 DankTech (RC-26) 丹克科技 | Sefiraat | <details><summary>展开</summary>受丹克储存mod启发，添加了与其类似的丹克球、丹克垃圾桶等，可配合货运发挥更大的作用</details> | [Wiki](https://kkgithub.com/Sefiraat/DankTech/wiki) | [GitHub](https://kkgithub.com/Sefiraat/DankTech) | [SpigotMC](https://www.spigotmc.org/resources/%E2%9A%A1-danktech-%E2%9A%A1-dank-storage-plugin.92031/)
 EquivalencyTech 等价交换| Sefiraat | <details><summary>展开</summary>受等价交换mod启发，添加了转换桌等物品，并可以自由配置物品价格</details> | [Wiki](https://kkgithub.com/Sefiraat/EquivalencyTech/wiki) | [GitHub](https://kkgithub.com/Sefiraat/EquivalencyTech/) | [SpigotMC](https://www.spigotmc.org/resources/%E2%AD%90-equitech-%E2%AD%90-equivalent-exchange-plugin.92970/)
 
-## Addon Jams
-
-在2020年，我们在Discord服务器中举办了第一届 **Slimefun Addon Jam**。
-
-我们希望该竞赛可以持续举办。该竞赛的基本内容如下：
-
-在竞赛开始时，我们会公布一个主题，然后，每位参与竞赛的开发者将会在有限的时间内根据该主题从头开发一个附属插件。  
-当竞赛结束后，我们会审核所有的提交。我们会对参赛附属进行评分，并向获得最高分附属的开发者颁发奖励。
-
-以下是我们已经举办过的竞赛列表:
-
-1. [Addon Jam 2020](/Addon-Jam-2020)
-2. [Addon Jam 2021](/Addon-Jam-2021)
-2. [Addon Jam 2022](/Addon-Jam-2022)
-
-## 编写自己的附属插件
-
-想要编写自己的附属插件吗？请阅读[开发者指南](/Developer-Guide)。
-
-如果你编写了一个 Slimefun 附属插件，并想要在这里列出，只需要向我们的 Wiki 仓库提交拉取请求（Pull Request）。你可以查看[该页面](/Expanding-the-Wiki)来了解详细流程。
-
-如果你没有学过任何与java相关的内容，可以尝试用 [SlimeCustomizer 自定义粘液附属](https://slimefun-addons-wiki.guizhanss.cn/slime-customizer/) 编写属于自己的附属，并在完成后同样向我们的 Wiki 仓库提交拉取请求（Pull Request）来添加你的配置文件。
 
 
 <!-- tabs:start -->
