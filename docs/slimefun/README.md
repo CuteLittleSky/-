@@ -351,11 +351,10 @@ A:若使用本地储存(默认)粘液科技的数据储存在服务端根目录/
 - 至尊研究院2.0 - 所有发电机
 
 #### 对不同附属的配置文件进行仔细修改
-部分附属如SlimeTinker,CrystamaeHistoria等的配置文件都有可完全自定义的选项,作为服主,你更需要的是在其中进行修改而不是**开箱即用**
+部分附属如SlimeTinker,CrystamaeHistoria等的配置文件都有可完全自定义的选项,作为服主,你更需要的是在其中进行修改而不是**开箱即用**  
 <!-- tabs:start -->
-#### **转载说明**
+#### **引用及转载说明**
 
-本界面及下属界面内容(/slimefun/\*)除特别说明外未经授权严禁以任何形式引用至任何网站
-
+本界面及下属界面内容(/slimefun/\*)除特别说明外未经授权严禁以任何形式引用至任何网站  
 部分内容参考自: MinecraftWiki,Slimefun Wiki,Slimefun-Geyser,SlimefunRecipe,SlimefunGuguProject/LiteXpansion
 <!-- tabs:end -->
