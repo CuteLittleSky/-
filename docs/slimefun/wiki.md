@@ -3,7 +3,7 @@
 ### 粘液科技本体  
 | 英文名称 | 中文名称 | 中文Wiki | 英文Wiki | 教程/指南 |
 | ------ | ------- | ------- | ------- |
-| Slimefun | 粘液科技 | [点击访问](https://slimefun-wiki.guizhanss.cn/) | [点击访问](https://kkgithub.com/Slimefun/Slimefun4/wiki) | [图文视频保姆级教程](https://www.mcbbs.net/thread-1479857-1-1.html)
+| Slimefun | 粘液科技 | [点击访问](https://slimefun-wiki.guizhanss.cn/) | [点击访问](https://kkgithub.com/Slimefun/Slimefun4/wiki) | [图文视频保姆级教程](https://www.mcbbs.net/thread-1479857-1-1.html) |
 ### 粘液科技附属  
 | 英文名称 | 中文名称 | 中文Wiki | 英文Wiki | 教程/指南 |
 | ------ | ------- | ------- | ------- |
