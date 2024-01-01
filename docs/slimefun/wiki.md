@@ -1,4 +1,4 @@
-# 粘液科技 Wiki列表  
+# 粘液科技 Wiki及教程指南列表  
 (正在完善中..中文Wiki信息来自简中汉化组)
 ### 粘液科技本体  
 | 英文名称 | 中文名称 | 中文Wiki | 英文Wiki | 教程/指南 |
@@ -23,6 +23,7 @@
 | Magmanimous | 熔岩之息 | [点击访问](https://slimefun-addons-wiki.guizhanss.cn/magmanimous/) | [点击访问](https://github.com/NCBPFluffyBear/Magmanimous/wiki/Magmanimous-Guide) |
 | Netheopoiesis | 下界乌托邦 | [点击访问](https://slimefun-addons-wiki.guizhanss.cn/netheopoiesis/) | [点击访问](https://docs.sefiraat.dev/netheopoiesis/purification) | [p1](https://www.bilibili.com/video/BV1gY411R79T/) [c1](https://www.bilibili.com/read/cv26875618) [c2](https://www.bilibili.com/read/cv27156837) [c3](https://www.bilibili.com/read/cv27153961) |
 | Networks | 网络 | [点击访问](https://slimefun-addons-wiki.guizhanss.cn/networks/) | [点击访问](https://docs.sefiraat.dev/netheopoiesis/networks) | [p1](https://www.bilibili.com/video/BV1vR4y1F77F/) [p2](https://www.bilibili.com/video/BV1Zb4y1H7Dm/) [p3](https://www.bilibili.com/video/BV1Lr4y1p7J5/) [c1](https://www.bilibili.com/read/cv21133798) [c2](https://www.bilibili.com/read/cv22208408) |
+| Nexcavate | 文明复兴 |  | [点击访问](https://github.com/char3210/Nexcavate/blob/main/TUTORIAL.md) | 
 | SfMobDrops | 粘液科技生物掉落 | [点击访问](https://slimefun-addons-wiki.guizhanss.cn/sf-mob-drops/) | 
 | SlimeCustomizer | 自定义粘液附属 | [点击访问](https://slimefun-addons-wiki.guizhanss.cn/slime-customizer/) | [点击访问](https://kkgithub.com/NCBPFluffyBear/SlimeCustomizer/blob/master/README.md) | [MCBBS](https://www.mcbbs.net/thread-1396391-1-1.html) |
 | SlimefunAdvancements | 粘液科技进度 | [点击访问](https://slimefun-addons-wiki.guizhanss.cn/slimefun-advancements/) | [点击访问](https://kkgithub.com/char3210/SlimefunAdvancements/blob/main/README.md) |
@@ -31,6 +32,7 @@
 | SlimeTinker | 粘液匠魂 | [点击访问](https://slimefun-addons-wiki.guizhanss.cn/slime-tinker/) | [点击访问](https://docs.sefiraat.dev/slimetinker/) | [p1](https://www.bilibili.com/video/BV1Da411n7gq/) [p2](https://www.bilibili.com/video/BV1AV4y1J74c/) [p3](https://www.bilibili.com/video/BV113411n7DQ/) |
 | Supreme 2.0 | 至尊研究院 | [点击访问](https://slimefun-addons-wiki.guizhanss.cn/supreme/) | [点击访问](https://kkgithub.com/Slimefun-Addon-Community/Supreme/wiki) | [c1](https://www.bilibili.com/read/cv18596298/) [c2](https://www.bilibili.com/read/cv18770413) |
 | TranscEndence | 末地科技 | [点击访问](https://slimefun-addons-wiki.guizhanss.cn/transc-endence/) | [点击访问](https://github.com/Sfiguz7/TranscEndence/wiki/Walkthrough-guide-thingy) |
+| ThermalFun | 灼岩科技 |  |  | [y1](https://www.youtube.com/watch?v=H8IAiVYIR3U&t=20s&ab_channel=mmm)
 | UltimateGenerators | 终极发电机 |  | [点击访问](https://github.com/freeze-dolphin/UltimateGenerators/wiki) |
 | VillagerTrade | 村民交易 | [点击访问](https://github.com/GuizhanCraft/VillagerTrade/blob/master/README.zh_CN.md) | [点击访问](https://github.com/GuizhanCraft/VillagerTrade/blob/master/README.md)) |
 | WilderNether | 迷狱生机 | [点击访问](https://slimefun-addons-wiki.guizhanss.cn/wilder-nether/) | [点击访问](https://github.com/SchnTgaiSpock/Wildernether/wiki)
