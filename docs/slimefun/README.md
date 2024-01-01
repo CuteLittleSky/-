@@ -215,7 +215,7 @@ Q:为什么我的玩家可以打开粘液科技手册的作弊模式?
 A:可能误给予了 slimefun.cheat.items 权限,将此权限设置为 false 即可解决
 
 Q:大量粘液机器导致卡服,如何限制玩家的机器数量?  
-可使用[HeadLimit](https://hub.fastgit.xyz/SlimefunGuguProject/HeadLimiter/)限制粘液货运类机器的区块限制数量
+可使用[HeadLimit](https://hub.fastgit.xyz/SlimefunGuguProject/HeadLimiter/)限制粘液各种类型机器的区块限制数量
 
 可使用[CustomChunkLimits](https://www.mcbbs.net/thread-984759-1-1.html)插件限制每个区块内某一种机器的数量
 
