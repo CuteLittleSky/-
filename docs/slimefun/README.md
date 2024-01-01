@@ -39,7 +39,7 @@
 关于粘液科技的更多内容,可前往[粘液科技中文Wiki](https://slimefun-wiki.guizhanss.cn/)查看.  
 
 ### | 删掉你的Cs - Corelib吧!  
-目前,粘液科技已经内置Dough/Cs - Corelib,因此,除了部分可能需要CS - Corelib的插件,你无需再次安装CS - Corelib.  
+目前,粘液科技已经内置Dough/Cs - Corelib,因此,除了部分可能需要CS - Corelib的插件,你无需再次安装CS - Corelib(目前绝大多数插件均不需要).  
   
 ### | 手把手安装粘液科技  
 众所周知,虽然粘液科技已经提供了汉化,但汉化仅限于游戏内的提示与额外的文字,粘液科技中的所有物品均被写死在代码中,因此,对于服主可直接选择由@StarWishsama所提供的汉化版  
@@ -117,8 +117,9 @@ enchant-level-limit: 0
 粘液科技的玩法不仅有本体所提供的玩法,还有超多的扩展组件来扩展粘液科技的功能,我们可以安装扩展组件来丰富粘液科技的玩法.  
 Tips:部分粘液科技附属插件可能存在某些刷物品Bug,请谨慎使用  
 安装粘液科技附属插件的方法很简单,只需将插件放入位于服务端根目录/plugins文件夹中重启服务器即可  
-[官方粘液科技附属插件地址](https://hub.fastgit.xyz/Slimefun/Slimefun4/wiki/addons)  
-[粘液科技附属列表](/slimefun/addons)提供了由SlimefunGuguProject中文汉化组整合的大部分粘液科技附属插件的介绍及汉化下载地址,如果需要其他汉化,可在MCBBS查找或前往附属的Fork界面寻找.  
+如果你使用了[SlimefunGuguProject(粘液科技简中汉化组)](https://github.com/SlimefunGuguProject)提供的中文版附属插件,绝大多数情况下还需要安装[GuizhanLibPlugin](https://builds.guizhanss.cn/ybw0014/GuizhanLibPlugin/master)
+[官方粘液科技附属插件地址](镜像)(https://kkgithub.com/https://github.com//Slimefun/Slimefun4/wiki/addons) [官方粘液科技附属插件地址](https://kkgithub.com/https://github.com//Slimefun/Slimefun4/wiki/addons)  
+[中文粘液科技附属列表](/slimefun/addons)提供了由SlimefunGuguProject中文汉化组整合的大部分粘液科技附属插件的介绍及汉化下载地址,如果需要其他汉化,可在MCBBS查找或前往附属的Fork界面寻找.  
 部分知名附属介绍:  
 注意: Mojang在1.20.3前的某次更新中移除了附魔相关的注册方法,因此LiteXpansion与FluffyMachines不适配新版本,请等待后续更新.
 <table>
@@ -152,7 +153,7 @@ Tips:部分粘液科技附属插件可能存在某些刷物品Bug,请谨慎使�
     </tr>
     <tr>
         <td>**FinalTech - 乱序**</td>
-        <td>非常__的粘液科技附属插件</td>
+        <td>非常厉害的粘液科技附属插件</td>
     </tr>
 </table>
 
@@ -189,7 +190,7 @@ Residence - 领地
 部分粘液科技机器不受领地保护  
   
 你可以在[本贴](https://www.mcbbs.net/forum.php?mod=viewthread&tid=1244276)回复来提供与其他插件冲突及解决方案  
-还可以安装[SlimeGlue](https://github.com/Xzavier0722/SlimeGlue)进行修复部分冲突,也可在Issues提出问题.
+还可以安装[SlimeGlue](https://github.com/Xzavier0722/SlimeGlue)修复与KingdomsX,Magic,Quickshop-Reremake,LockettePro等插件的兼容问题,也可在[此处](https://github.com/Xzavier0722/SlimeGlue/issues)提出问题.  
   
 ### | 移除幽灵方块  
 如果在一个位置放置方块却无法放置,有极大可能此处出现了幽灵方块  
@@ -221,7 +222,7 @@ A:由于部分插件的保护仅针对于原版物品有效,你可以联系插�
 对于AcidIsland插件:  
 可使用[AcidislandEX](https://www.mcbbs.net/thread-818473-1-1.html)插件来保护玩家的海岛  
 对于Residence插件:  
-粘液科技汉化版内置了对于Residence的保护  
+粘液科技汉化版中文版内置了对于Residence的保护  
   
 Q:遇到机器变方块怎么办?  
 A: 
@@ -239,7 +240,7 @@ Q:玩家重置岛屿后原岛屿位置存在大量的全息显示怎么办?
 A:Bentobox可安装[此插件](https://www.mcbbs.net/thread-1262424-1-1.html)  
   
 Q:我更换了周目,但粘液数据未清空怎么办?  
-A:粘液科技的数据储存在服务端根目录/data-stroage文件夹中,删除此文件夹即可  
+A:若使用本地储存(默认)粘液科技的数据储存在服务端根目录/data-stroage文件夹中,删除此文件夹即可,若使用数据库,清除数据库数据即可    
 
 <!-- tabs:start -->
 #### **转载说明**
