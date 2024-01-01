@@ -182,39 +182,39 @@ Tips:部分粘液科技附属插件可能存在某些刷物品 Bug,请谨慎使�
 
 <table>
     <tr>
-        <td>**ExtioGarden - 异域花园**</td>
+        <td>ExtioGarden - 异域花园</td>
         <td>提供了各种各样额外的植物与蔬果,各种矿物的魔法植物,你可以使用异域花园的植物做出各种各样的食物,如汉堡包,果汁等</td>
     </tr>
     <tr>
-        <td> **LiteXpansion - 无尽科技**</td>
+        <td>LiteXpansion - 工业</td>
         <td>向粘液科技中加入了各种额外的机器,并且复原了部分工业时代2的机器,如废料,UU物质,回收机,铱等物品/机器 </td>
     </tr>
     <tr>
-        <td>**SlimeTinker - 粘液匠魂**</td>
+        <td>SlimeTinker - 粘液匠魂</td>
         <td>极大程度地复刻了模组 - 匠魂III(即1.16.5版本匠魂)的各种功能,如冶炼炉,工具组装台与各种部件等,并且还原了工具经验,可以将工具升级以获得额外的强化槽 </td>
     </tr>
     <tr>
-        <td>**FluffyMachines - 蓬松机器**</td>
+        <td>FluffyMachines - 蓬松机器</td>
         <td>为粘液科技添加了各种自动化机器,升级的粘液工具,以及各种具有特色的物品,还有超大的物品储存机器</td>
     </tr>
     <tr>
-        <td>**ClayTech - 粘土科技 [ 国创 ]**</td>
+        <td>ClayTech - 粘土科技 [ 国创 ]</td>
         <td>为粘液科技添加了各种物品与机器,更重要的是添加了两个新的星球——月球和火星,同时提供了一些具有原版扩展功能的物品 </td>
     </tr>
     <tr>
-        <td>**EquivalencyTech - 等价交换科技**</td>
+        <td>EquivalencyTech - 等价交换科技</td>
         <td>如同等价交换模组一样,向Minecraft中新增了EMC值的设定,可以将物品转换为EMC值同时可以将用MEC值获得物品</td>
     </tr>
     <tr>
-        <td>**LuckBlocks - 幸运方块**</td>
+        <td>LuckBlocks - 幸运方块</td>
         <td>向粘液科技中添加了四种不同的幸运方块,破坏幸运方块会发生一些随机的事件,是好事,也有可能是坏事?</td>
     </tr>
     <tr>
-        <td>**FinalTech - 乱序技艺**</td>
+        <td>FinalTech - 乱序技艺</td>
         <td>它包括新的电力系统、新的货运系统以及目前的一些特殊机器和物品</td>
     </tr>
     <tr>
-        <td>**Network - 网络**</td>
+        <td>Network - 网络</td>
         <td>类AE2模组的大型存储系统,推荐添加</td>
     </tr>
     <tr>
