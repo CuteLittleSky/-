@@ -32,7 +32,7 @@
 | Supreme 2.0 | 至尊研究院 | [点击访问](https://slimefun-addons-wiki.guizhanss.cn/supreme/) | [点击访问](https://kkgithub.com/Slimefun-Addon-Community/Supreme/wiki) | [c1](https://www.bilibili.com/read/cv18596298/) [c2](https://www.bilibili.com/read/cv18770413) |
 | TranscEndence | 末地科技 | [点击访问](https://slimefun-addons-wiki.guizhanss.cn/transc-endence/) | [点击访问](https://github.com/Sfiguz7/TranscEndence/wiki/Walkthrough-guide-thingy) |
 | VillagerTrade | 村民交易 | [点击访问](https://github.com/GuizhanCraft/VillagerTrade/blob/master/README.zh_CN.md) | [点击访问](https://github.com/GuizhanCraft/VillagerTrade/blob/master/README.md)) |
-| WilderNether | 迷狱生机 | [点击访问](https://slimefun-addons-wiki.guizhanss.cn/wilder-nether/) |
+| WilderNether | 迷狱生机 | [点击访问](https://slimefun-addons-wiki.guizhanss.cn/wilder-nether/) | [点击访问](https://github.com/SchnTgaiSpock/Wildernether/wiki)
 
 <!-- tabs:start -->
 #### **引用说明**
