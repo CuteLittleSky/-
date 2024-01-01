@@ -1,4 +1,5 @@
 module.exports = [
 	"/slimefun/",
-	"addons"
+	"addons",
+	"https://github.com/SlimefunGuguProject/Slimefun-Wiki/blob/master/pages/Home.md"
 ];
