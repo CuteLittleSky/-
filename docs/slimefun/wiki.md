@@ -7,6 +7,7 @@
 ### 粘液科技附属  
 | 英文名称 | 中文名称 | 中文Wiki | 英文Wiki | 教程/指南 |
 | ------ | ------- | ------- | ------- | ------- |
+| AdvancedTech | 先进科技 |  | [点击访问](https://github.com/Slimefun-Addon-Community/AdvancedTech/wiki) |
 | Bump | Bump魔法 | [点击访问](https://slimefun-addons-wiki.guizhanss.cn/bump/) | [点击访问](https://docs.ybw0014.dev/bump/) |
 | CrystamaeHistoria | 魔法水晶编年史 | [点击访问](https://slimefun-addons-wiki.guizhanss.cn/crystamae-historia/) | [点击访问](https://docs.sefiraat.dev/crystamae-historia/) | [p1](https://www.bilibili.com/video/BV1FY411J7cs/) [p2](https://www.bilibili.com/video/BV1VZ4y1m7eG/) |
 | DracFun | 龙之进化 |  | [点我访问](https://slimecraftsmpwiki.gitbook.io/slimecraftsmp/slimefun/dracfun) | 
