@@ -218,7 +218,7 @@ Tips:部分粘液科技附属插件可能存在某些刷物品 Bug,请谨慎使�
         <td>类AE2模组的大型存储系统,推荐添加</td>
     </tr>
     <tr>
-        <td>**InfinityExpansion - 无尽科技**</td>
+        <td>InfinityExpansion - 无尽科技</td>
         <td>根据无尽贪婪模组制作的粘液科技附属插件,可大大提高粘液科技游戏体验</td>
     </tr>
 </table>
