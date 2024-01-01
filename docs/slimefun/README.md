@@ -116,7 +116,7 @@
 
 | server.properties  |  注释 |
 | ------------ | ------------ |
-|  resource-pack= | 指向一个资源包的URL,若含":"字符,需要在其前加上反斜线(\),如https\ ://gitee.com/mcskycraft/skycraft/releases/download/Box/%E8%A2%AB%E5%9B%9A%E7%A6%81%E7%9A%84%E4%B8%96%E7%95%8C-%E6%9D%90%E8%B4%A8%E5%8C%85v1.zip 需要直链下载,不能使用例如百度网盘的链接  |
+|  resource-pack= | 指向一个资源包的URL,若含":"字符,需要在其前加上反斜线(\),如`https\://gitee.com/mcskycraft/skycraft/releases/download/Box/%E8%A2%AB%E5%9B%9A%E7%A6%81%E7%9A%84%E4%B8%96%E7%95%8C-%E6%9D%90%E8%B4%A8%E5%8C%85v1.zip` 需要直链下载,不能使用例如百度网盘的链接  |
 |  resource-pack-id= | 可选,指定材质包的UUID,无特殊需求可不填  |
 |  resource-pack-sha1= | 可选,指定材质包的SHA1值,便于服务器与客户端校验材质包,无特殊需求可不填  |
 |  resource-pack-promot= | 可选,可在加入服务器询问玩家是否下载材质包时向玩家发送一段信息(JSON文本),对初次进服的留存率有较大帮助  |
@@ -128,7 +128,7 @@
 > 由于 Gitee 政策性调整,不建议将材质包上传至 Gitee(可能需要认证),建议采用其他渠道或自建服务器
 
 **3.为基岩版玩家提供材质包支持  **
-如果你使用了 Geyser 插件使服务器兼容基岩版,可选择下载[Geyser-Slimefun 适配材质](https://github.com/SofiaRedmond/Slimefun-Geyser/)
+如果你使用了 Geyser 插件使服务器兼容基岩版,可选择下载[Geyser-Slimefun 适配材质](https://github.com/SofiaRedmond/Slimefun-Geyser/).
 1. 下载[ SlimefunGeyser-1.2.0.jar](https://github.com/SofiaRedmond/Slimefun-Geyser/releases " SlimefunGeyser-1.2.0.jar")文件
 2. 把SlimefunGeyser-1.2.0.jar放到Geyser配置文件夹中的extension文件夹中
 3. 下载[基岩版材质包](https://www.dropbox.com/s/3a92in5cba38m9y/sf%20%281%29%20%281%29.mcpack?dl=1)
