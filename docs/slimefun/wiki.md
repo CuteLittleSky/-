@@ -1,5 +1,5 @@
-# 粘液科技 Wiki列表
-
+# 粘液科技 Wiki列表  
+(正在完善中..中文Wiki信息来自简中汉化组)
 ### 粘液科技本体  
 | 英文名称 | 中文名称 | 中文Wiki | 英文Wiki | 教程/指南 |
 | ------ | ------- | ------- | ------- | ------- |
@@ -25,6 +25,7 @@
 | SfMobDrops | 粘液科技生物掉落 | [点击访问](https://slimefun-addons-wiki.guizhanss.cn/sf-mob-drops/) | 
 | SlimeCustomizer | 自定义粘液附属 | [点击访问](https://slimefun-addons-wiki.guizhanss.cn/slime-customizer/) | [点击访问](https://kkgithub.com/NCBPFluffyBear/SlimeCustomizer/blob/master/README.md) | [MCBBS](https://www.mcbbs.net/thread-1396391-1-1.html) |
 | SlimefunAdvancements | 粘液科技进度 | [点击访问](https://slimefun-addons-wiki.guizhanss.cn/slimefun-advancements/) | [点击访问](https://kkgithub.com/char3210/SlimefunAdvancements/blob/main/README.md) |
+| SlimefunFrame | 粘液战甲 |  | [点击访问](https://kkgithub.com/VoperAD/SlimeFrame/blob/main/README.md) |
 | SlimefunNukes | 粘液核弹 | [点击访问](https://slimefun-addons-wiki.guizhanss.cn/custom-plugins/Slimefun-Nukes) | [点击访问](https://kkgithub.com/lofi-enjoyer/SlimefunNukes/wiki) |
 | SlimeTinker | 粘液匠魂 | [点击访问](https://slimefun-addons-wiki.guizhanss.cn/slime-tinker/) | [点击访问](https://docs.sefiraat.dev/slimetinker/) | [p1](https://www.bilibili.com/video/BV1Da411n7gq/) [p2](https://www.bilibili.com/video/BV1AV4y1J74c/) [p3](https://www.bilibili.com/video/BV113411n7DQ/) |
 | Supreme 2.0 | 至尊研究院 | [点击访问](https://slimefun-addons-wiki.guizhanss.cn/supreme/) | [点击访问](https://kkgithub.com/Slimefun-Addon-Community/Supreme/wiki) | [c1](https://www.bilibili.com/read/cv18596298/) [c2](https://www.bilibili.com/read/cv18770413) |
