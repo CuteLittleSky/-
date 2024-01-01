@@ -34,7 +34,7 @@
 | TranscEndence | 末地科技 | [点击访问](https://slimefun-addons-wiki.guizhanss.cn/transc-endence/) | [点击访问](https://github.com/Sfiguz7/TranscEndence/wiki/Walkthrough-guide-thingy) |
 | ThermalFun | 灼岩科技 |  |  | [y1](https://www.youtube.com/watch?v=H8IAiVYIR3U&t=20s&ab_channel=mmm)
 | UltimateGenerators | 终极发电机 |  | [点击访问](https://github.com/freeze-dolphin/UltimateGenerators/wiki) |
-| VillagerTrade | 村民交易 | [点击访问](https://github.com/GuizhanCraft/VillagerTrade/blob/master/README.zh_CN.md) | [点击访问](https://github.com/GuizhanCraft/VillagerTrade/blob/master/README.md)) |
+| VillagerTrade | 村民交易 | [点击访问](https://github.com/GuizhanCraft/VillagerTrade/blob/master/README.zh_CN.md) | [点击访问](https://github.com/GuizhanCraft/VillagerTrade/blob/master/README.md) |
 | WilderNether | 迷狱生机 | [点击访问](https://slimefun-addons-wiki.guizhanss.cn/wilder-nether/) | [点击访问](https://github.com/SchnTgaiSpock/Wildernether/wiki)
 
 ### 自定义附属  
@@ -44,6 +44,12 @@
 | InfiniteExtensionV2 | 无尽扩展 |  |  | [p1](https://www.bilibili.com/video/BV1ij411w7vo) | 
 | XingCheng_Craft | 星辰工艺 |  |  | 备注:可参考[Releases](https://github.com/FengXiang2233/XingCheng_Craft/releases)
 |  | 更多奇特的工具 |  | | [p1](https://www.bilibili.com/video/BV1ZV4y1S7uY/)
+
+### 推荐插件或工具  
+| 英文名称 | 中文名称 | 中文Wiki | 英文Wiki | 教程/指南 |
+| ------ | ------- | ------- | ------- | ------- |
+| WhatIsThis | 这是什么 |  | [点击访问](https://github.com/steve4744/WhatIsThis) | [MCBBS](https://www.mcbbs.net/forum.php?mod=viewthread&tid=848750)
+|  | 粘液科技小助手 |  |  | [点我访问](https://slimefun-helper.guizhanss.cn/)
 
 <!-- tabs:start -->
 #### **引用说明**
