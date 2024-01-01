@@ -35,6 +35,13 @@
 | VillagerTrade | 村民交易 | [点击访问](https://github.com/GuizhanCraft/VillagerTrade/blob/master/README.zh_CN.md) | [点击访问](https://github.com/GuizhanCraft/VillagerTrade/blob/master/README.md)) |
 | WilderNether | 迷狱生机 | [点击访问](https://slimefun-addons-wiki.guizhanss.cn/wilder-nether/) | [点击访问](https://github.com/SchnTgaiSpock/Wildernether/wiki)
 
+### 自定义附属  
+| 英文名称 | 中文名称 | 中文Wiki | 英文Wiki | 教程/指南 |
+| ------ | ------- | ------- | ------- | ------- |
+| GreedAndCreation | 贪婪与创世 |  |  | [p1](https://www.bilibili.com/video/BV1cX4y1k7vB) | 
+| InfiniteExtensionV2 | 无尽扩展 |  |  | [p1](https://www.bilibili.com/video/BV1ij411w7vo) | 
+| XingCheng_Craft | 星辰工艺 |  |  | 备注:可参考[Releases](https://github.com/FengXiang2233/XingCheng_Craft/releases)
+
 <!-- tabs:start -->
 #### **引用说明**
 本界面部分内容可能引用自其他网站,您可在此查看引用列表
