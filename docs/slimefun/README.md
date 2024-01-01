@@ -4,7 +4,7 @@
 
 > 本贴基于 StarWishsama 所维护的粘液科技中文汉化版讲述
 
-> 对于玩家,请参考[粘液科技图文视频保姆级教程](https://www.mcbbs.net/thread-1479857-1-1.html) 及各种粘液科技 Wiki
+> 对于玩家,请参考[粘液科技图文视频保姆级教程](https://www.mcbbs.net/thread-1479857-1-1.html) 及[各种粘液科技 Wiki](https://mc.skycraft.cn/slimefun/wiki)
 
 ### | 一个老服主说的话 / 使用粘液科技开服的建议
 
