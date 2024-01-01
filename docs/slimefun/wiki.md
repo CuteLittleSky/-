@@ -31,6 +31,7 @@
 | SlimeTinker | 粘液匠魂 | [点击访问](https://slimefun-addons-wiki.guizhanss.cn/slime-tinker/) | [点击访问](https://docs.sefiraat.dev/slimetinker/) | [p1](https://www.bilibili.com/video/BV1Da411n7gq/) [p2](https://www.bilibili.com/video/BV1AV4y1J74c/) [p3](https://www.bilibili.com/video/BV113411n7DQ/) |
 | Supreme 2.0 | 至尊研究院 | [点击访问](https://slimefun-addons-wiki.guizhanss.cn/supreme/) | [点击访问](https://kkgithub.com/Slimefun-Addon-Community/Supreme/wiki) | [c1](https://www.bilibili.com/read/cv18596298/) [c2](https://www.bilibili.com/read/cv18770413) |
 | TranscEndence | 末地科技 | [点击访问](https://slimefun-addons-wiki.guizhanss.cn/transc-endence/) | [点击访问](https://github.com/Sfiguz7/TranscEndence/wiki/Walkthrough-guide-thingy) |
+| UltimateGenerators | 终极发电机 |  | [点击访问](https://github.com/freeze-dolphin/UltimateGenerators/wiki) |
 | VillagerTrade | 村民交易 | [点击访问](https://github.com/GuizhanCraft/VillagerTrade/blob/master/README.zh_CN.md) | [点击访问](https://github.com/GuizhanCraft/VillagerTrade/blob/master/README.md)) |
 | WilderNether | 迷狱生机 | [点击访问](https://slimefun-addons-wiki.guizhanss.cn/wilder-nether/) | [点击访问](https://github.com/SchnTgaiSpock/Wildernether/wiki)
 
