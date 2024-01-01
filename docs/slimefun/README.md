@@ -66,27 +66,45 @@
 粘液科技中的部分物品使用头颅的形式呈现,但还有数目不小的物品使用原版物品的形式实现,如何让这部分物品拥有自己的材质呢?  
 在 Minecraft1.14+ 加入了物品标签(CustomModelData),通过 CustModelData 可以实现相同物品的不同材质展现,Slimefun 同样支持 CustomModelData.  
 如何使用粘液科技材质包?  
-你可以在使用由国外大佬制作,可在[此处](https://github.com/xMikux/Slimefun-Resourcepack/releases)下载.  
-同时,如果你使用了 Geyser 插件,可选择下载[Geyser-Slimefun 材质](https://github.com/SofiaRedmond/Slimefun-Geyser/)
+你可以在使用由xMikux制作的材质包,可在[此处](https://github.com/xMikux/Slimefun-Resourcepack/releases)下载(支持1.14-1.20+)
 
-获取材质后,你需要做的事情有:  
-1.在服务器内进行配置  
+
+#### 获取材质后,你需要做的事情有:  获取材质后,你需要做的事情有:  
+**1.在服务器内进行配置  **
 将材质包内提供的 item-models.yml 文件直接替换位于服务端根目录/plugins/Slimefun/item-models.yml 文件并重启服务器.  
-2.将材质包提供给玩家  
+**2.将材质包提供给玩家  **
 Ⅰ.让玩家手动安装材质包  
 Ⅱ.通过服务端自带的材质包功能向玩家推送材质包  
 使用 Ⅱ 方法,你需要将材质包上传到可以进行直链下载的地方,如:  
-[**Gitee**](https://www.gitee.com): 通过 Gitee 的发行版/储存库文件,国内访问速度快(需要认证)  
-[**Github**](https://www.github.com): 通过 Github 的发行版/储存库文件,国内访问情况差(不推荐)  
-[**Gitlab**](https://www.gitlab.com): 通过 Gitlab 的发行版/储存库文件,国内访问情况一般  
-[**CloudFlare Pages**](https://www.gitlab.com): 方法自行研究,仅提供思路,国内访问情况良好  
-[**MCPacks**](https://www.mcpacks.net): 将材质包上传到 MCPacks,国内访问情况差  
-然后再 server.properties 文件中找到 resource-pack=选项,将下载地址填入后方
+- [**Gitee**](https://www.gitee.com): 通过 Gitee 的发行版/储存库文件,国内访问速度快(需要认证)  
+- [**Github**](https://www.github.com): 通过 Github 的Releases/储存库文件,国内访问情况差(不推荐)  
+- [**Gitlab**](https://www.gitlab.com): 通过 Gitlab 的Releases/储存库文件,国内访问情况一般  
+- [**CloudFlare Pages**](https://www.gitlab.com): 较为繁琐,方法自行研究,仅提供思路,国内访问情况良好,但文件最大不能超过20MB  
+- [**MCPacks**](https://www.mcpacks.net): 将材质包上传到 MCPacks,国内访问情况差  
+- **自建服务器**: 推荐,但相比以上方法对技术有一定要求   
 
-> 由于 Gitee 政策性调整,不建议将材质包上传至 Gitee,可采用其他渠道
+获取材质包直链后,请在在服务端根目录/server.properties文件中修改
 
-对原版服务端提供的材质包推送不满意?你也可以尝试一下使用 TResources 插件(兼容全版本),可提供强制使用玩家使用材质包(可选),支持多材质包,自定义权限,支持材质包切换等功能  
-[(点我跳转至 TResources 插件发布帖)](https://www.mcbbs.net/thread-650844-1-1.html)
+| server.properties  |  注释 |
+| ------------ | ------------ |
+|  resource-pack= | 指向一个资源包的URL,若含":"字符,需要在其前加上反斜线(\),如https\ ://gitee.com/mcskycraft/skycraft/releases/download/Box/%E8%A2%AB%E5%9B%9A%E7%A6%81%E7%9A%84%E4%B8%96%E7%95%8C-%E6%9D%90%E8%B4%A8%E5%8C%85v1.zip 需要直链下载,不能使用例如百度网盘的链接  |
+|  resource-pack-id= | 可选,指定材质包的UUID,无特殊需求可不填  |
+|  resource-pack-sha1= | 可选,指定材质包的SHA1值,便于服务器与客户端校验材质包,无特殊需求可不填  |
+|  resource-pack-promot= | 可选,可在加入服务器询问玩家是否下载材质包时向玩家发送一段信息(JSON文本),对初次进服的留存率有较大帮助  |
+|  require-resource-pack= | true/false,可选,是否强制玩家加载材质包,若强制要求,若玩家选择拒绝则会将玩家踢出服务器,对使用Geyser加入服务器的基岩版玩家无效  |
+
+
+对于**较低版本**,可考虑使用: [TResources插件](https://www.mcbbs.net/thread-650844-1-1.html)(兼容全版本),可提供强制使用玩家使用材质包(可选,对使用Geyser加入服务器的基岩版玩家无效),支持多材质包,自定义权限,支持材质包切换等功能,但对于**1.19及以上版本**,请直接在Server.properties中进行修改,高版本Server.properties已包含TResources插件的功能.
+
+> 由于 Gitee 政策性调整,不建议将材质包上传至 Gitee(可能需要认证),建议采用其他渠道或自建服务器
+
+**3.为基岩版玩家提供材质包支持  **
+如果你使用了 Geyser 插件使服务器兼容基岩版,可选择下载[Geyser-Slimefun 适配材质](https://github.com/SofiaRedmond/Slimefun-Geyser/)
+1. 下载[ SlimefunGeyser-1.2.0.jar](https://github.com/SofiaRedmond/Slimefun-Geyser/releases " SlimefunGeyser-1.2.0.jar")文件
+2. 把SlimefunGeyser-1.2.0.jar放到Geyser配置文件夹中的extension文件夹中
+3. 下载[基岩版材质包](https://www.dropbox.com/s/3a92in5cba38m9y/sf%20%281%29%20%281%29.mcpack?dl=1)
+4. 把mcpack材质包放到Geyser配置文件夹中的packs文件夹中
+
 
 ### | 禁用(或部分禁用)粘液科技物品
 
@@ -257,10 +275,13 @@ A:Bentobox 可安装[此插件](https://www.mcbbs.net/thread-1262424-1-1.html)
 Q:我更换了周目,但粘液数据未清空怎么办?  
 A:若使用本地储存(默认)粘液科技的数据储存在服务端根目录/data-stroage 文件夹中,删除此文件夹即可,若使用数据库,清除数据库数据即可
 
-<!-- tabs:start -->
+### | 魔改粘液科技插件(及其附属)中的内容
 
+
+
+<!-- tabs:start -->
 #### **转载说明**
 
-本界面及下属界面内容(/slimefun/\*)未经授权严禁以任何形式引用至任何网站
-
+本界面及下属界面内容(/slimefun/\*)除特别说明外未经授权严禁以任何形式引用至任何网站
+部分内容参考自: MinecraftWiki,Slimefun Wiki
 <!-- tabs:end -->
