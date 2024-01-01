@@ -225,6 +225,11 @@ Tips:部分粘液科技附属插件可能存在某些刷物品 Bug,请谨慎使�
 
 > 注意: Mojang 在 1.20.3 前的某次更新中移除了附魔相关的注册方法,目前 LiteXpansion 与 FluffyMachines 暂不适配1.20.3/1.20.4版本,请等待后续更新.
 
+#### **GuizhanLibPlugin 附属插件自动更新**
+使用中文版附属插件并且安装GuizhanLibPlugin会默认开启自动更新,可在每个附属插件的config.yml中选择关闭自动更新,也可在GuizhanLibPlugin的配置文件中关闭所有插件的自动更新.  
+若无法自动更新,可在配置文件中将`location: 改为 CN` 使用国内CDN.  
+>自动更新后文件名保持不变,可使用`/sf versions`检测附属插件实际版本  
+
 ### | 粘液科技变量
 
 在部分服务器可能会需要用到的粘液科技的变量  
