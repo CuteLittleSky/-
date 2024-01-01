@@ -18,7 +18,8 @@ module.exports = [
         ariaLabel: 'Slimefun',
         items: [
           { text: '粘液科技服主食用指南', link: '/slimefun/' },
-          { text: 'Japanese', link: '/slimefun/addons' }
+          { text: '粘液科技附属列表', link: '/slimefun/addons' },
+          { text: '粘液科技Wiki列表', link: '/slimefun/wiki' }
         ]
       },
   {
