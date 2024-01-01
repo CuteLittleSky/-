@@ -9,6 +9,8 @@
 | ------ | ------- | ------- | ------- | ------- |
 | Bump | Bump魔法 | [点击访问](https://slimefun-addons-wiki.guizhanss.cn/bump/) | [点击访问](https://docs.ybw0014.dev/bump/) |
 | CrystamaeHistoria | 魔法水晶编年史 | [点击访问](https://slimefun-addons-wiki.guizhanss.cn/crystamae-historia/) | [点击访问](https://docs.sefiraat.dev/crystamae-historia/) | [p1](https://www.bilibili.com/video/BV1FY411J7cs/) [p2](https://www.bilibili.com/video/BV1VZ4y1m7eG/) |
+| DracFun | 龙之进化 |  | [点我访问](https://slimecraftsmpwiki.gitbook.io/slimecraftsmp/slimefun/dracfun) | 
+| ExoticGarden | 异域花园 | [点击访问](https://slimefun-addons-wiki.guizhanss.cn/exotic-garden/) | [点击访问(过时)](https://dev.bukkit.org/projects/exotic-garden) | [p1](https://www.bilibili.com/video/BV1Ny4y1r7Wz/) |
 | DynaTech | 动力科技 | [点击访问](https://slimefun-addons-wiki.guizhanss.cn/dyna-tech/) | [点我访问](https://kkgithub.com/ProfElements/DynaTech/blob/main/README.md) | [c1](https://www.bilibili.com/read/cv19282167) [c2](https://www.bilibili.com/read/cv20641468) |
 | ExoticGarden | 异域花园 | [点击访问](https://slimefun-addons-wiki.guizhanss.cn/exotic-garden/) | [点击访问(过时)](https://dev.bukkit.org/projects/exotic-garden) | [p1](https://www.bilibili.com/video/BV1Ny4y1r7Wz/) |
 | EMCTech | EMC科技 | [点击访问](https://slimefun-addons-wiki.guizhanss.cn/emc-tech/) | [点击访问](https://kkgithub.com/Sefiraat/EquivalencyTech/wiki) |
@@ -27,3 +29,10 @@
 | Supreme 2.0 | 至尊研究院 | [点击访问](https://slimefun-addons-wiki.guizhanss.cn/supreme/) | [点击访问](https://kkgithub.com/Slimefun-Addon-Community/Supreme/wiki) | [c1](https://www.bilibili.com/read/cv18596298/) [c2](https://www.bilibili.com/read/cv18770413) |
 | TranscEndence | 末地科技 | [点击访问](https://slimefun-addons-wiki.guizhanss.cn/transc-endence/) | [点击访问](https://github.com/Sfiguz7/TranscEndence/wiki/Walkthrough-guide-thingy) |
 | WilderNether | 迷狱生机 | [点击访问](https://slimefun-addons-wiki.guizhanss.cn/wilder-nether/) |
+
+<!-- tabs:start -->
+#### **引用说明**
+本界面部分内容可能引用自其他网站,您可在此查看引用列表
+#### **鬼斩Wiki**
+本文部分内容引自[粘液科技非官方中文Wiki](https://slimefun-wiki.guizhanss.cn/)中的[条目](https://slimefun-wiki.guizhanss.cn/Addons)，文字内容默认使用[MIT](https://kkgithub.com/SlimefunGuguProject/Slimefun-Wiki/blob/master/LICENSE)协议
+<!-- tabs:end -->
