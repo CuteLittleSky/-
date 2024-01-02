@@ -1,7 +1,8 @@
 # | 下载 WorldEdit
 
 > 本模组分为不同版本,请注意选择!   
-> 对于**Bukkit/Spigot/Paper 及 衍生服务端**,请将WorldEdit放入plugins文件夹中,**其他所有版本**,请将WorldEdit放入plugins文件夹中     
+> 对于**Bukkit/Spigot/Paper 及 衍生服务端**,请将WorldEdit放入plugins文件夹中,**其他所有版本**,请将WorldEdit放入plugins文件夹中
+
 **如果您正在运营专业服务器，需要为您的服务器安装 WorldEdit,则请遵循以下指引:**  
   * 对于插件服务器,请选择Bukkit/Spigot/Paper或Sponge版本;  
   * 对于模组服务器(包括模组和插件混合服务器),请使用Forge或Fabric版本.
