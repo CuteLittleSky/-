@@ -14,8 +14,8 @@ actions:
 features:
   - title: 关于天空导航
     details: 天空导航系列项目为公益项目,不含任何商业信息,加入QQ频道以了解更多/提出建议.  
-  - title: 关于SKYCRAFT服务器
-    details: 这里原来是SKYCRAFT服务器官网,SKYCRAFT服务器已关闭,预计2023年高考后恢复
+  - title: 占位
+    details: 没想好写啥
   - title: 参与贡献
     details: 项目开源于Github,欢迎参与贡献
 footerWrap: 
