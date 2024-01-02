@@ -13,9 +13,9 @@ actions:
     size: large
 features:
   - title: 关于天空导航
-    details: 天空导航系列项目为公益项目,不含任何商业信息,加入QQ频道以了解更多/提出建议.  
-  - title: 占位
-    details: 没想好写啥
+    details: 天空导航系列项目为公益项目,不含任何商业信息,加入QQ群以了解更多/提出建议.  
+  - title: 网站托管于Cloudflare
+    details: 国内访问速度良好
   - title: 参与贡献
     details: 项目开源于Github,欢迎参与贡献
 footerWrap: 
