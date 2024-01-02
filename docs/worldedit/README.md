@@ -2,12 +2,7 @@
 ### | 什么是 WorldEdit ?  
 **WorldEdit** 是一个地图编辑模组,你可以使用神奇的小木斧将一栋建筑物从一个世界快速复制到另一个世界,快捷的建造一座宏伟的城市,它可以在服务器中正常运行.    
 ##### 注意:WorldEdit不能在领域服,Windows 10版本,基岩版上运行.  
-#### **温馨提示:**  
-本帖只描述适用于Forge / Fabric API下的WorldEdit.  
-如果您正在运营专业服务器，需要为您的服务器安装 WorldEdit,则请遵循以下指引:  
-  对于插件服务器,请使用WorldEidt插件版,可至[此贴](https://www.mcbbs.net/thread-68815-1-1.html)(适用于Spigot/Paper/CraftBukkit或更多下游版本)或[此贴](https://www.mcbbs.net/plugin.php?id=link_redirect&target=https%3A%2F%2Fore.spongepowered.org%2FEngineHub%2FWorldEdit)(SpongeVanila);  
-  对于模组服务器(包括模组和插件混合服务器),请使用 WorldEdit 模组版(即本帖提供的版本).  
-(感谢@贺兰兰 提出此项内容的不足及修改建议)  
+
 如果你有什么问题,请在本帖回复或前往WorldEdit的[Discord](https://www.mcbbs.net/plugin.php?id=link_redirect&target=https%3A%2F%2Fdiscord.gg%2Fenginehub)或[Github](https://github.com/EngineHub/WorldEdit/issues)询问.  
   
 ##### 如果您在安装或使用WorldEdit方面需要帮助,请加入WorldEdit的[Discord服务器](https://www.mcbbs.net/plugin.php?id=link_redirect&target=https%3A%2F%2Fdiscord.gg%2Fenginehub).
@@ -24,17 +19,6 @@
 -   快速跳跃至视野内目标方块.
 -   选取一块区域并从快照中回复它.
 -   不会引起任何模组的冲突.
-  
-  
-### | WorldEdit 的下载及安装方法  
-1.使用Forge API  
-- 首先,你需要安装Forge.  
-- [下载WorldEdit(Forge版)](http://mc.skycraft.cn/worldedit/download),并放入mods文件夹即可.  
-2.使用Fabric API  
-- 首先,你需要安装Fabric及FabricAPI.  
-- [下载WorldEdit(Fabric版)](http://mc.skycraft.cn/worldedit/download),并放入mods文件夹即可.  
-3.在原版Forge服务端安装  
-- 拖入Mods文件夹即可  
   
 ### | 关于 WorldEdit 的疑难解答  
   
