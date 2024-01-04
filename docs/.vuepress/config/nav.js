@@ -26,7 +26,7 @@ module.exports = [
         text: '粘液科技玩家篇',
         ariaLabel: 'sfguide',
         items: [
-          { text: '粘液科技服主食用指南', link: '/sfguide/' },
+          { text: '粘液科技图文视频保姆级教程', link: '/sfguide/' },
           { text: '粘液科技Wiki列表', link: '/slimefun/wiki' }
         ]
       },
