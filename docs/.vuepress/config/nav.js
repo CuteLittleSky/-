@@ -11,7 +11,7 @@ module.exports = [
   },
   {
     text: "原神导航",
-    link: "/ys/"
+    link: "https://ys.skycraft.cn"
   },
   {
         text: '粘液科技服主篇',
