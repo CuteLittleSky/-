@@ -1,5 +1,4 @@
 module.exports = [
-	"/slimefun/",
-	"addons",
-	"wiki"
+	"/sfguide/",
+	"/slimefun/wiki"
 ];
