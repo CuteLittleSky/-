@@ -6,5 +6,6 @@ module.exports = [
 	"/worldedit/",
 	"/pojav/",
 	"/slimefun/",
+	"/sfguide/",
 	"/quilt"
 ];
