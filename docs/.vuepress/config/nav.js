@@ -6,6 +6,10 @@ module.exports = [
   },
   // Nav 2
   {
+    text: "SKYCRAFT服务器",
+    link: "https://skycraft.cn"
+  },
+  {
     text: "我的世界导航",
     link: "/mc/"
   },
