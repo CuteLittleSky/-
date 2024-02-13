@@ -1,10 +1,8 @@
-# 粘液科技服主食用指南
-
-> 适用版本:粘液科技V5 中文版
-
-> 基于 StarWishsama 所维护的粘液科技中文版讲述
-
-> 对于玩家,请参考[粘液科技图文视频保姆级教程](https://www.mcbbs.net/thread-1479857-1-1.html) 及[各种粘液科技 Wiki](https://mc.skycraft.cn/slimefun/wiki)
+# 粘液科技服主食用指南  
+> 适用版本:粘液科技V5 中文版  
+> 基于 StarWishsama 所维护的粘液科技中文版讲述  
+> 对于玩家,请参考[粘液科技图文视频保姆级教程](https://www.mcbbs.net/thread-1479857-1-1.html) 及[各种粘液科技 Wiki](https://mc.skycraft.cn/slimefun/wiki)  
+> 一个小小的宣传栏 | [不妨来看看SKYCRAFT服务器? 1.20.4粘液科技单方块空岛生存服务器|免费飞行|基岩版互通优化|无尽|网络|异域花园|魔法水晶编年史等附属 QQ群:599951039 服务器IP:mc.skycraft.cn](https://docs.skycraft.cn/oneblock)  
 
 ### | 一个老服主说的话 / 使用粘液科技开服的建议
 
