@@ -4,6 +4,7 @@
 | 英文名称 | 中文名称 | 中文Wiki | 英文Wiki | 教程/指南 |
 | ------ | ------- | ------- | ------- | ------- |
 | Slimefun | 粘液科技 | [点击访问](https://slimefun-wiki.guizhanss.cn/) | [点击访问](https://kkgithub.com/Slimefun/Slimefun4/wiki) | [图文视频保姆级教程](https://www.mcbbs.net/thread-1479857-1-1.html) [粘液科技服主食用指南](https://mc.skycraft.cn/slimefun/)   
+
 > 一个小小的宣传栏 | [不妨来看看SKYCRAFT服务器? 1.20.4粘液科技单方块空岛生存服务器|免费飞行|基岩版互通优化|无尽|网络|异域花园|魔法水晶编年史等附属 QQ群:599951039 服务器IP:mc.skycraft.cn](https://docs.skycraft.cn/oneblock)  
 ### 粘液科技附属  
 | 英文名称 | 中文名称 | 中文Wiki | 英文Wiki | 教程/指南 |
