@@ -1,5 +1,5 @@
 # 粘液科技 Wiki及教程指南列表  
-(正在完善中..中文Wiki信息来自简中汉化组)
+
 ### 粘液科技本体  
 | 英文名称 | 中文名称 | 中文Wiki | 英文Wiki | 教程/指南 |
 | ------ | ------- | ------- | ------- | ------- |
@@ -49,11 +49,14 @@
 | 英文名称 | 中文名称 | 中文Wiki | 英文Wiki | 教程/指南 |
 | ------ | ------- | ------- | ------- | ------- |
 | WhatIsThis | 这是什么 |  | [点击访问](https://github.com/steve4744/WhatIsThis) | [MCBBS](https://www.mcbbs.net/forum.php?mod=viewthread&tid=848750)
-|  | 粘液科技小助手 |  |  | [点我访问](https://slimefun-helper.guizhanss.cn/)
+|  | 粘液科技小助手 |  |  | [点我访问](https://slimefun-helper.guizhanss.cn/)  
+>备注: y:youtube视频 p:bilibili视频 c:bilibili专栏
 
 <!-- tabs:start -->
 #### **引用说明**
 本界面部分内容可能引用自其他网站,您可在此查看引用列表
 #### **鬼斩Wiki**
-本文部分内容引自[粘液科技非官方中文Wiki](https://slimefun-wiki.guizhanss.cn/)中的[条目](https://slimefun-wiki.guizhanss.cn/Addons)，文字内容默认使用[MIT](https://kkgithub.com/SlimefunGuguProject/Slimefun-Wiki/blob/master/LICENSE)协议
+本文中文Wiki内容引自[粘液科技非官方中文Wiki](https://slimefun-wiki.guizhanss.cn/)中的[条目](https://slimefun-wiki.guizhanss.cn/Addons)，文字内容默认使用[MIT](https://kkgithub.com/SlimefunGuguProject/Slimefun-Wiki/blob/master/LICENSE)协议  
+#### **Github**
+本文部分内容参考了Github上各附属储存库   
 <!-- tabs:end -->
