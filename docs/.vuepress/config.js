@@ -13,7 +13,7 @@ module.exports = {
   ],
   head: [
     ["link",{ rel: "icon",href: "/assets/logo.png" }],
-    ["meta",{ rel: "keywords",content: "Minecraft" }]
+    ["meta",{ rel: "keywords",content: "Minecraft,我的世界,粘液科技,Slimefun,Pojav,MC,我的世界论坛,MCBBS,创世神,我的世界中文论坛,worldedit" }]
   ],
   markdown: {
     lineNumbers: false,
