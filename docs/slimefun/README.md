@@ -1,4 +1,4 @@
-# 粘液科技(Slimefun)服主食用指南  
+# 粘液科技Slimefun服主食用指南  
 > 适用版本:粘液科技V5 中文版  
 > 基于 StarWishsama 所维护的粘液科技中文版讲述  
 > 对于玩家,请参考[粘液科技图文视频保姆级教程](https://www.mcbbs.net/thread-1479857-1-1.html) 及[各种粘液科技 Wiki](https://mc.skycraft.cn/slimefun/wiki)  
