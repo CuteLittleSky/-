@@ -36,6 +36,6 @@ module.exports = [
       },
   {
     text: "加入QQ群",
-    link: "https://jq.qq.com/?_wv=1027&k=7HArwGuv"
+    link: "https://jq.skycraft.cn/"
   }
 ];
