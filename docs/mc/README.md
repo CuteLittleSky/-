@@ -5,14 +5,11 @@
 
 <!-- tabs:start -->
 #### **网站**
-[SKYCRAFT 官网](http://skycraft.cn/)  
-[天空原神导航](http://ys.skycraft.cn/)  
+[SKYCRAFT服务器 IP:MC.SKYCRAFT.CN](http://skycraft.cn/)  
+[可爱小天空的主页](http://cutelittlesky.cn/)  
 [天空我的世界导航](http://mc.skycraft.cn/)  
 #### **交流社区**
-[QQ群](https://jq.qq.com/?_wv=1027&k=7HArwGuv)  
-#### **友情链接**
-[MCBBS](http://www.mcbbs.net/)  
-[MC百科](http://mcmod.cn/)  
+[QQ群](https://jq.skycraft.cn)  
 #### **本站维护记录**
 2022/06/05 本站建立  
 <!-- tabs:end -->
