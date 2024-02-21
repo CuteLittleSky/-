@@ -14,10 +14,6 @@ module.exports = [
     link: "/mc/"
   },
   {
-    text: "原神导航",
-    link: "https://ys.skycraft.cn"
-  },
-  {
         text: '粘液科技服主篇',
         ariaLabel: 'Slimefun',
         items: [
