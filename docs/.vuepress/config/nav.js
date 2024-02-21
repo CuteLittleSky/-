@@ -6,7 +6,7 @@ module.exports = [
   },
   // Nav 2
   {
-    text: "SKYCRAFT服务器 IP: MC.SKYCRAFT.CN",
+    text: "SKYCRAFT服务器IP:MC.SKYCRAFT.CN",
     link: "https://skycraft.cn"
   },
   {
