@@ -4,11 +4,6 @@ module.exports = [
     text: "首页",
     link: "/"
   },
-  // Nav 2
-  {
-    text: "我的世界导航",
-    link: "/mc/"
-  },
   {
         text: '粘液科技服主篇',
         ariaLabel: 'Slimefun',
