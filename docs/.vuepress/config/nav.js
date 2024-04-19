@@ -6,10 +6,6 @@ module.exports = [
   },
   // Nav 2
   {
-    text: "SKYCRAFT服务器IP:MC.SKYCRAFT.CN",
-    link: "https://skycraft.cn"
-  },
-  {
     text: "我的世界导航",
     link: "/mc/"
   },
@@ -31,7 +27,11 @@ module.exports = [
         ]
       },
   {
-    text: "加入QQ群",
+    text: "SKYCRAFT服务器IP:MC.SKYCRAFT.CN",
+    link: "https://skycraft.cn"
+  },
+  {
+    text: "加入SKYCRAFT服务器QQ群",
     link: "https://jq.skycraft.cn/"
   }
 ];
