@@ -1,7 +1,6 @@
 module.exports = {
   theme:"vuepress-theme-antdocs",
   title: "天空我的世界(Minecraft)导航",
-  description: "天空我的世界(Minecraft)导航,粘液科技,Pojav启动器,Worldedit创始神,天空基础整合",
   base: "/",
   additionalPages: [
     {
