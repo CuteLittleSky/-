@@ -3,5 +3,5 @@ module.exports = [
 	"download",
 	"faq",
     "faq-hmclpe",
-	["https://raw.githubusercontent.com/CuteLittleSky/pojavlauncherteam.github.io/main/INSTALL.md", "Pojav中文文档"]
+	["https://pojav.skycraft.cn/", "Pojav中文文档"]
 ];
