@@ -5,6 +5,10 @@ module.exports = [
     link: "/"
   },
   {
+    text: "Pojav中文文档",
+    link: "https://pojav.skycraft.cn"
+  },
+  {
         text: '粘液科技服主篇',
         ariaLabel: 'Slimefun',
         items: [
