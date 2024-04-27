@@ -1,12 +1,11 @@
 #  粘液科技Slimefun指南 图文视频保姆级教程
 
-> 适用版本:粘液科技V5 中文版
+> 适用版本:粘液科技V5 中文版  
+> 基于 StarWishsama 所维护的粘液科技中文版讲述  
+> 对于服主,请参考[粘液科技服主食用指南](https://mc.cutelittlesky.cn/slimefun/)  
+> 一个小小的宣传栏 | [不妨来看看SKYCRAFT服务器? 1.20.6粘液科技单方块空岛生存服务器|免费飞行|基岩版互通优化|无尽|网络|异域花园|魔法水晶编年史等附属 QQ群:599951039 服务器IP:mc.skycraft.cn](https://docs.skycraft.cn/oneblock)  
 
-> 基于 StarWishsama 所维护的粘液科技中文版讲述
-
-> 对于服主,请参考[粘液科技服主食用指南](https://www.mcbbs.net/thread-1479857-1-1.html)
-
-本帖为新人向的粘液科技教程
+本帖为新人向的粘液科技教程,浏览教程**请善用网页右侧的目录**
 
 
 ## PART1.基础入门  
