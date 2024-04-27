@@ -92,6 +92,12 @@ A：先解锁磨石（通过磨石把圆石磨成砂砾）再解锁自动洗矿�
 自动淘金机是淘金盘与下界淘金盘的合体，你可以使用这两者支持淘金的物品来淘金  
 手持要淘金的物品右键活板门，等待一会你的物品就会喷出来（可以使用物品输出箱来防止满地掉落物和扫地大妈扫走）  
 [![自动淘金机的摆放图](https://cdn.jsdelivr.net/gh/Slimefun/Wiki@master/images/multiblock-automated-panning-machine.png "自动淘金机的摆放图")](https://cdn.jsdelivr.net/gh/Slimefun/Wiki@master/images/multiblock-automated-panning-machine.png "自动淘金机的摆放图")  
+### 关于洗矿机  
+洗矿机是一个多方块结构，它由一个发射器，一个木栅栏与一个炼药锅组成  
+洗矿机是将筛矿变成矿粉的机器  
+将筛矿放入发射器中，然后右键木栅栏，稍等一会矿粉就会出现在发射器中（强烈建议加个物品输出箱，发射器只有9个格子很容易爆仓！）  
+  
+![洗矿机的摆放方法（箱子是物品输出箱，它不是必须的但我强烈建议加上）](https://img.fastmirror.net/s/2024/04/27/662cb69e1d43f.png)  
 
 
 
