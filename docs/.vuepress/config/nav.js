@@ -30,7 +30,7 @@ module.exports = [
     link: "https://skycraft.cn"
   },
   {
-    text: "加入SKYCRAFT服务器QQ群",
+    text: "加入SKYCRAFTQQ群",
     link: "https://jq.skycraft.cn/"
   },
   {
